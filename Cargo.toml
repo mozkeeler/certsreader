@@ -1,0 +1,9 @@
+[package]
+name = "certsreader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0"
+nom = "7"
+x509-parser = "0"
